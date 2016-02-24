@@ -8,13 +8,13 @@ The image **extends** the `projectomakase/server-jre-8:latest` image and adds Wi
 
 ### Availability ###
 
-The Dockerfile is available in the master branch and is built in the Docker HUB as `projectomakase/wildfly:latest`.
+The Dockerfile is available in the master branch and is built in the Docker HUB as `projectomakase/wildfly:wildfly-8`.
 
 ### Usage ###
 
 To boot in standalone mode
 
-    docker run -d projectomakase/wildfly
+    docker run -d projectomakase/wildfly:wildfly-8
 
 ### Environment Variables ###
 
