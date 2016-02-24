@@ -4,7 +4,7 @@ This repository contains the Dockerfile and resources for creating a Wildfly ins
 
 ### Image ###
 
-The image **extends** the `projectomakase/server-jre-8:latest` image and adds Wildfly 8.2.
+The image **extends** the `projectomakase/server-jre-8:latest` image and adds Wildfly 9.0.2.Final
 
 ### Availability ###
 
